@@ -34,10 +34,20 @@ return [
 
     //Add your extension to the dashbaord's menu
     'menu' => [
-      'snipcart' => [
-        'label' => 'Snipcart',
-        'url' => '@snipcart',
-        'icon' => 'snipcart:icon.svg'
-      ]
+        'snipcart' => [
+            'label' => 'Snipcart',
+            'url' => '@snipcart',
+            'icon' => 'snipcart:icon.svg'
+        ],
+        'snipcart: product' => [
+             'label' => 'Products',
+             'parent' => 'snipcart',
+             'url' => '@snipcart',
+        ],
+        'snipcart: settings' => [
+             'label' => 'Settings',
+             'parent' => 'snipcart',
+             'url' => '@snipcart/settings',
+        ]
     ]
 ];
