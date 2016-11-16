@@ -14,6 +14,11 @@ return [
         'Pagekit\\Snipcart\\' => 'src'
     ],
 
+    'widgets' => [
+        'widgets/products.php'
+    ],
+
+
     //To store the api_key we will use later on.
     'config' => [
         'api_key' => ''
@@ -31,6 +36,8 @@ return [
             'controller' => 'Pagekit\\Snipcart\\Controller\\SnipcartController'
         ],
     ],
+
+    'settings' => '@snipcart/settings',
 
     //Add your extension to the dashbaord's menu
     'menu' => [

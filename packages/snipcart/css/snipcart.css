@@ -1,0 +1,47 @@
+.products {
+    width: 60%;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.remove{
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px;
+}
+
+.remove:hover{
+  box-shadow: 0 1px 1px 1px rgba(0,0,0,0.3);
+}
+
+.header {
+  font-weight: bold;
+}
+
+.product {
+    text-align: left;
+    padding: 8px;
+}
+
+.form {
+  padding-top: 100px;
+}
+
+.entry {
+  padding: 5px;
+  margin-left: 20px;
+}
+
+.save {
+  border: none;
+  color: white;
+  background-color: #3A94E0;
+  height: 50px;
+  width: 150px;
+  text-transform: uppercase;
+}
+
+.save:hover{
+  box-shadow: 0 1px 1px 1px rgba(0,0,0,0.3);
+}
