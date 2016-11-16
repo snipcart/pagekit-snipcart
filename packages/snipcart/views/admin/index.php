@@ -43,5 +43,4 @@
       </p>
       <button class='save entry' @click="save">Add product</button>
   </div>
-
 </div>
