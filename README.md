@@ -1,5 +1,7 @@
 # Pagekit e-commerce demo & extension with Snipcart
 
+![pagekit-ecommerce-demo-live](https://snipcartweb-10f3.kxcdn.com/media/10051/pagekit-ecommerce-demo-live.png)
+
 This is the full repo for a Pagekit e-commerce website using the extension discussed in this post:
 
 > [Post coming]
