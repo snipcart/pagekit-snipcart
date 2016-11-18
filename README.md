@@ -4,7 +4,7 @@
 
 This is the full repo for a Pagekit e-commerce website using the extension discussed in this post:
 
-> [Post coming]
+> [Building a Pagekit CMS E-commerce Demo with a Products Extension](https://snipcart.com/blog/pagekit-cms-ecommerce-demo)
 
 You can also check out the live demo here:
 
